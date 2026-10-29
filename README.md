@@ -35,13 +35,13 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive
   
   **Program**  
 ```python
-  import pandas as pd
+import pandas as pd
 # Load the IPL dataset
 df = pd.read_csv("matches.csv")
 ```
 **1. Dataset Understanding**
 ```python
-Q1. Dataset shape and first 5 records
+# Q1. Dataset shape and first 5 records
 print("\nQ1. DATASET UNDERSTANDING")
 print("Rows:", df.shape[0])
 print("Columns:", df.shape[1])
@@ -192,7 +192,37 @@ print("\nCleaned dataset saved as IPL_Matches_Cleaned.csv")
 ```
 
   **Output**  
-  #Add necessary output screenhoets  
+<img width="602" height="646" alt="image" src="https://github.com/user-attachments/assets/0a18ceb2-e91f-4db2-a678-c9d71407ca08" />
+
+<img width="258" height="392" alt="image" src="https://github.com/user-attachments/assets/161b6602-533f-4259-92f5-0aa5babdcc39" />
+
+<img width="202" height="60" alt="image" src="https://github.com/user-attachments/assets/fc14ad19-0305-48b2-96f7-081a7e83f0d7" />
+
+<img width="332" height="237" alt="image" src="https://github.com/user-attachments/assets/e68fa249-5b9a-4e67-b82f-3912af33fc74" />
+
+<img width="287" height="387" alt="image" src="https://github.com/user-attachments/assets/b5bd9d3b-b38b-4321-b139-cf7a55ec8166" />
+
+<img width="302" height="147" alt="image" src="https://github.com/user-attachments/assets/fe35a75f-3a9d-4df7-b7cb-9b8d8c086527" />
+
+<img width="540" height="437" alt="image" src="https://github.com/user-attachments/assets/5a5921aa-41cc-441d-9298-62d92f846d43" />
+
+<img width="390" height="245" alt="image" src="https://github.com/user-attachments/assets/6069a597-726b-4af5-a498-98ca52c42972" />
+
+<img width="282" height="702" alt="image" src="https://github.com/user-attachments/assets/89d5748f-7bd0-4030-b6b0-c8375ec25847" />
+
+<img width="471" height="163" alt="image" src="https://github.com/user-attachments/assets/fcf264fd-499c-4016-8f62-fb262c9aff68" />
+
+<img width="958" height="448" alt="image" src="https://github.com/user-attachments/assets/621d3829-2ffd-4a26-9ef9-9fa5b5e933b5" />
+
+<img width="300" height="141" alt="image" src="https://github.com/user-attachments/assets/0b09d43d-bfa5-433c-ad13-8d1105058ea7" />
+
+<img width="310" height="70" alt="image" src="https://github.com/user-attachments/assets/5b0a13b4-125e-4deb-a026-44ca9ca6e896" />
+
+<img width="220" height="250" alt="image" src="https://github.com/user-attachments/assets/f308e445-0b21-4bd5-aa32-c3d307b4dd5e" />
+
+<img width="276" height="247" alt="image" src="https://github.com/user-attachments/assets/1ca22b38-9abe-4677-98e0-1587b6e7e9b0" />
+
+<img width="522" height="36" alt="image" src="https://github.com/user-attachments/assets/a6a06292-b267-4995-ae90-fab46867c6d7" />
 
  **Result**  
  
